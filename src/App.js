@@ -7,6 +7,7 @@ import TrandingProduct from './components/TrandingProduct/TrandingProduct';
 function App() {
   return (
     <>
+    <FlasSellProduct />
     <TrandingProduct />
     </>
   );
